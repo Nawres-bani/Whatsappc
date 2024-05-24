@@ -8,7 +8,7 @@ import "firebase/compat/storage";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCe9GLQmZYOKGdrx8PUEgp5SKevk7TPYb8",
+  apiKey: "",
   authDomain: "WHATQAPPC-1e538.firebaseapp.com",
   databaseURL: "https://WHATSAPPC-1e538-default-.firebaseio.com",
   projectId: "WHATSAPPC-1e538",
